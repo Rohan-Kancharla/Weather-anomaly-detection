@@ -69,9 +69,6 @@ cd weather_anomaly_detection
 streamlit run dashboard.py
 
 
-Open the dashboard at:
-👉 http://localhost:8501/
-
 ⚡ Kafka Mode (For Real-Time Streaming)
 
 You need Kafka running locally or via Docker.
