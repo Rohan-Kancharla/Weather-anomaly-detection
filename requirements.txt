@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+kafka-python
+streamlit
+matplotlib
+altair
+reportlab
+python-docx
